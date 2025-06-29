@@ -1,0 +1,30 @@
+Title: Dynamic Crowd Momentum System
+
+Overview: This feature aims to make games more immersive through crowd control. Increasing and decreasing crowd chants' volume based on different factors like rivalry to the opposite teams etc. The volume directly affects the players by making them commit fouls like false start etc.
+
+Value Statement: ‘Home Game’ scenario is very important in real life to teams and the game. being able to bring a part of it makes a huge impact to the game. This feature makes stadiums feel more alive and gameplay more intense during key moments, especially in rivalry games or playoff pushes. It also rewards players for building fan excitement and keeping momentum on their side.
+
+Solution: This feature would connect with existing systems like Home Field Advantage and crowd noise mechanics. When momentum builds (tracked by a visible meter), crowd noise levels rise and start causing small gameplay effects for the opposing team, such as:
+
+1)Slower pre-snap reads for visiting QBs
+
+2)Confused receiver routes on audibles
+
+3)Higher chance of false starts or delay of game penalties
+
+Players can boost their crowd momentum by making big plays, stopping drives, or scoring. If the home team loses momentum, the crowd quiets and effects reduce. Some stadiums will naturally have higher crowd impact, adding variety across teams.
+
+Evaluation Statement:
+Pros:
+
+Makes games feel more emotional and immersive.
+
+Gives home-field advantage a fun, gameplay-relevant twist.
+
+Easy to understand for casual players, and fun to master for advanced players.
+
+Cons:
+
+Could be frustrating if effects feel too random or punishing.
+
+Might be hard to balance across all stadiums or teams.
